@@ -1,2 +1,2 @@
-# Learning-C-
+# Learning-C++
 Started to discover C++
